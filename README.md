@@ -4,7 +4,7 @@
      Nov 2022<br />
      MILCOM, IEEE Conference
 
-  2. A Survey of the State of IoV and its Security Vulnerabilities<br />
+  2. [A Survey of the State of IoV and its Security Vulnerabilities](https://arxiv.org/abs/2211.05775)<br />
      Dec 2021<br />
      University of Florida
 
