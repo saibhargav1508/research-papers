@@ -8,6 +8,6 @@
      Dec 2021<br />
      University of Florida
 
-  3. Micro Actuators and Implementation<br />
+  3. [Micro Actuators and Implementation](https://arxiv.org/abs/2212.13123)<br />
      May 2019<br />
      RNS Institute of Technology, India
