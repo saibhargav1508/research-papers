@@ -1,6 +1,6 @@
 # Research Papers
 
-  1. Remote and Rural Connectivity via Multi-Tier Systems Through SDN-Managed Drone Networks<br />
+  1. [Remote and Rural Connectivity via Multi-Tier Systems Through SDN-Managed Drone Networks](https://ieeexplore.ieee.org/document/10017513)<br />
      Nov 2022<br />
      MILCOM, IEEE Conference
 
